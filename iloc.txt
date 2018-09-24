@@ -1,0 +1,3 @@
+loadI 12, r9 
+loadI 394, r10 
+store r9, r10 
